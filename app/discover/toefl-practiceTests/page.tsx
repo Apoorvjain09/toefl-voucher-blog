@@ -25,10 +25,10 @@ export default function EffectiveTOEFLPracticeTests() {
                         <Image src={practiceTestImage} alt="TOEFL Practice Test Strategies" width={800} height={450} />
                         <figcaption>Mastering TOEFL with effective practice strategies.</figcaption>
                     </figure>
-                    <p className="lead">TOEFL practice tests are a cornerstone of effective preparation, offering a realistic gauge of your readiness and areas for improvement. Here’s how to leverage them for a top score.</p>
+                    <p className="lead">TOEFL practice tests are a cornerstone of effective preparation, offering a realistic gauge of your readiness and areas for improvement. Here is how to leverage them for a top score.</p>
 
                     <h2>Why Practice Tests are Essential</h2>
-                    <p>Practice tests mirror the actual TOEFL exam in format, timing, and difficulty, providing a benchmark for your current abilities while familiarizing you with the test's structure.</p>
+                    <p>Practice tests mirror the actual TOEFL exam in format, timing, and difficulty, providing a benchmark for your current abilities while familiarizing you with the test structure.</p>
 
                     <h2>Choosing the Right Practice Tests</h2>
                     <p>Opt for official TOEFL practice tests from ETS, the maker of the TOEFL exam. These tests best replicate the actual exam conditions and scoring.</p>

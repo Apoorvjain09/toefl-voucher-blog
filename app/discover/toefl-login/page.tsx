@@ -26,11 +26,11 @@ export default function TOEFLLoginGuide() {
                     </figure>
                     <p className="lead">Accessing your TOEFL information is a critical step in your test preparation journey. This guide will walk you through the login process and how to quickly access your test scores, registration details, and more.</p>
                     <h2>Step 1: Creating Your ETS Account</h2>
-                    <p>The first step to accessing your TOEFL information is to create an ETS account. Visit the official ETS website and follow the prompts to sign up. You'll need to provide some personal information, create a username, and set a password.</p>
+                    <p>The first step to accessing your TOEFL information is to create an ETS account. Visit the official ETS website and follow the prompts to sign up. You&apos;ll need to provide some personal information, create a username, and set a password.</p>
                     <h2>Step 2: Logging In</h2>
-                    <p>Once your account is set up, log in by entering your username and password on the ETS login page. If you forget your password, there's a password recovery option available.</p>
+                    <p>Once your account is set up, log in by entering your username and password on the ETS login page. If you forget your password, there&apos;s a password recovery option available.</p>
                     <h2>Step 3: Accessing Your Test Information</h2>
-                    <p>After logging in, navigate to the "My TOEFL" section. Here you'll find all your test information, including upcoming test dates, scores from previous tests, and more. You can also register for new tests and access preparation materials.</p>
+                    <p>After logging in, navigate to the My TOEFL section. Here you&apos;ll find all your test information, including upcoming test dates, scores from previous tests, and more. You can also register for new tests and access preparation materials.</p>
                     <h2>Tips for Smooth Access</h2>
                     <ul>
                         <li>Keep your login credentials safe and accessible.</li>
@@ -38,7 +38,7 @@ export default function TOEFLLoginGuide() {
                         <li>Use the official ETS resources provided in your account for the best preparation.</li>
                     </ul>
                     <h2>Conclusion</h2>
-                    <p>Accessing your TOEFL test information doesn't have to be complicated. By following these simple steps, you can manage your test preparation efficiently and focus on achieving your best score. Good luck!</p>
+                    <p>Accessing your TOEFL test information doesn&apos;t have to be complicated. By following these simple steps, you can manage your test preparation efficiently and focus on achieving your best score. Good luck!</p>
                 </article>
             </div>
         </main>

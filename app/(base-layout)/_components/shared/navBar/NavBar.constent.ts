@@ -8,7 +8,7 @@ export const menuLinks = [
     tag: "Discover",
   },
   {
-    to: "/special-deals",
+    to: "/#get-code",
     tag: "Spacial Deals",
   },
 ];

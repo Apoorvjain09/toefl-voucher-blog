@@ -26,11 +26,11 @@ export default function TOEFLExamPattern() {
                         <figcaption>The structure of the TOEFL exam.</figcaption>
                     </figure>
                     <h2>Overview of the TOEFL Exam Pattern</h2>
-                    <p>The TOEFL exam is structured into four sections: Reading, Listening, Speaking, and Writing, designed to assess your English language skills comprehensively. Here's what you need to know about each section for the 2024 exam:</p>
+                    <p>The TOEFL exam is structured into four sections: Reading, Listening, Speaking, and Writing, designed to assess your English language skills comprehensively. Here is what you need to know about each section for the 2024 exam:</p>
                     <h3>Reading Section</h3>
                     <p>The Reading section tests your ability to understand academic texts. It features 3 to 4 passages, each followed by 10 questions.</p>
                     <h3>Listening Section</h3>
-                    <p>In the Listening section, you'll encounter lectures and conversations in an academic setting. This section includes questions that gauge your ability to understand spoken English.</p>
+                    <p>In the Listening section, you will encounter lectures and conversations in an academic setting. This section includes questions that gauge your ability to understand spoken English.</p>
                     <h3>Speaking Section</h3>
                     <p>The Speaking section assesses your spoken English proficiency through various tasks that mimic real-life academic interactions and discussions.</p>
                     <h3>Writing Section</h3>
@@ -40,7 +40,7 @@ export default function TOEFLExamPattern() {
                     <ul>
                         <li>Practice each section of the exam extensively, using official TOEFL materials whenever possible.</li>
                         <li>Improve your English skills in all four areas: reading, listening, speaking, and writing.</li>
-                        <li>Take full-length practice tests to become familiar with the exam's timing and pressure.</li>
+                        <li>Take full-length practice tests to become familiar with the exam timing and pressure.</li>
                         <li>Focus on areas where you feel least confident to ensure a balanced score across all sections.</li>
                     </ul>
                     <h2>Conclusion</h2>

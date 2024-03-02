@@ -47,7 +47,7 @@ export default function TOEFLvsIELTS() {
                     <p>Both tests are widely recognized, but students should check with their prospective institutions to determine specific test preferences. TOEFL is more widely accepted in the US, while IELTS has broader acceptance worldwide.</p>
                     
                     <h2>Preparation and Difficulty</h2>
-                    <p>Preparation for both exams is crucial. Many find the TOEFL's structure more straightforward but challenging due to its focus on academic English. The IELTS is often perceived as more practical and easier for those comfortable with British English.</p>
+                    <p>Preparation for both exams is crucial. Many find the TOEFL&apos;s structure more straightforward but challenging due to its focus on academic English. The IELTS is often perceived as more practical and easier for those comfortable with British English.</p>
                     
                     <h2>Choosing the Right Test</h2>
                     <p>Your choice between TOEFL and IELTS should consider your comfort with American or British English, the specific requirements of your target institutions, and your strengths in speaking, writing, listening, and reading.</p>

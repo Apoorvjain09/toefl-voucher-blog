@@ -21,16 +21,16 @@ export default function TOEFLGuide() {
                         </address>
                         <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">TOEFL Guide: Unlocking the Key Details for Test Takers</h1>
                     </header>
-                    <p className="lead">The Test of English as a Foreign Language (TOEFL) is a critical exam for non-native English speakers aiming to study in English-speaking universities. It's recognized globally and reflects the most advanced techniques in language learning.</p>
+                    <p className="lead">The Test of English as a Foreign Language (TOEFL) is a critical exam for non-native English speakers aiming to study in English-speaking universities. It&apos;s recognized globally and reflects the most advanced techniques in language learning.</p>
                     <p>The TOEFL test measures your ability to use and understand English at the university level. It evaluates how well you combine your listening, reading, speaking, and writing skills to perform academic tasks.</p>
-                    <p>With this guide, we'll dive into what the TOEFL exam covers, the format of the test, and tips on how to prepare effectively to achieve a high score.</p>
+                    <p>With this guide, we&apos;ll dive into what the TOEFL exam covers, the format of the test, and tips on how to prepare effectively to achieve a high score.</p>
                     <figure><Image width={500} height={500} src={hero} alt="TOEFL Preparation"/>
                         <figcaption>Studying for the TOEFL exam requires dedication and practice.</figcaption>
                     </figure>
                     <h2>Understanding the TOEFL Exam Format</h2>
                     <p>The TOEFL iBT test is divided into four sections: Reading, Listening, Speaking, and Writing. Each section has a specific time allocation and set of tasks that test your proficiency in English.</p>
                     <h3>Preparing for the Reading Section</h3>
-                    <p>In the Reading section, you'll encounter passages similar to those found in college textbooks. It's essential to practice skimming and scanning techniques and to expand your academic vocabulary.</p>
+                    <p>In the Reading section, you&apos;ll encounter passages similar to those found in college textbooks. It&apos;s essential to practice skimming and scanning techniques and to expand your academic vocabulary.</p>
                     <h3>Strategies for the Listening Section</h3>
                     <p>The Listening section can be challenging as it requires you to make sense of various English accents and academic lectures. Taking notes and learning to identify key points can be immensely helpful.</p>
                     <h3>Tackling the Speaking Section</h3>
@@ -49,10 +49,10 @@ export default function TOEFLGuide() {
                     </ul>
                     
                     <h2>TOEFL Registration and Scores</h2>
-                    <p>Registering for the TOEFL exam is straightforward. You can sign up on the official ETS website, where you'll also find detailed information about test centers and dates. After taking the test, your scores will be available online approximately 10 days later, and you can send them directly to the institutions of your choice.</p>
+                    <p>Registering for the TOEFL exam is straightforward. You can sign up on the official ETS website, where you&apos;ll also find detailed information about test centers and dates. After taking the test, your scores will be available online approximately 10 days later, and you can send them directly to the institutions of your choice.</p>
                     
                     <h2>Conclusion</h2>
-                    <p>The TOEFL exam is a gateway to educational opportunities around the world. With diligent preparation and a deep understanding of the test's requirements, you can achieve a score that reflects your true potential. Remember, the key to success on the TOEFL is consistent practice and a positive mindset.</p>
+                    <p>The TOEFL exam is a gateway to educational opportunities around the world. With diligent preparation and a deep understanding of the test&apos;s requirements, you can achieve a score that reflects your true potential. Remember, the key to success on the TOEFL is consistent practice and a positive mindset.</p>
                     
                     <p>Best of luck in your TOEFL preparation, and remember, the journey to mastering English is a rewarding one that opens numerous doors globally.</p>
                     

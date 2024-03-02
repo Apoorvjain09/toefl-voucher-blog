@@ -5,7 +5,7 @@ import Footer from "./_components/shared/footer/Footer";
 const layout = ({ children }: { children: ReactNode }) => {
   return (
     <div className="">
-      <NavBar />
+      {/* <NavBar /> */}
       <main className="">{children}</main>
       <Footer />
     </div>

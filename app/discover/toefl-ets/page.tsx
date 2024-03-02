@@ -16,7 +16,7 @@ export default function TOEFLPage() {
                     </figure>
                     <p className="lead">The Test of English as a Foreign Language (TOEFL) is a standardized test that measures the English language proficiency of non-native speakers wishing to enroll in English-speaking universities. Administered by the Educational Testing Service (ETS), TOEFL is a key requirement for admission in many institutions around the world.</p>
                     <h2>About ETS</h2>
-                    <p>Educational Testing Service (ETS) is a premier nonprofit testing organization, responsible for the development, administration, and scoring of the TOEFL exam. ETS's mission is to help advance quality and equity in education for people worldwide by creating assessments based on rigorous research.</p>
+                    <p>Educational Testing Service (ETS) is a premier nonprofit testing organization, responsible for the development, administration, and scoring of the TOEFL exam. ETS mission is to help advance quality and equity in education for people worldwide by creating assessments based on rigorous research.</p>
                     <h2>TOEFL Exam Structure</h2>
                     <p>The TOEFL exam is divided into four sections: Reading, Listening, Speaking, and Writing. Each section tests specific skills in the English language, including the ability to read, listen, speak, and write in an academic setting.</p>
                     <ul>

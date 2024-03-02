@@ -41,7 +41,7 @@ export default function TOEFLExplanation() {
                     <p>The TOEFL exam comprises four sections: Reading, Listening, Speaking, and Writing. Each section is carefully designed to test key aspects of English proficiency in both spoken and written forms.</p>
                     
                     <h2>Preparing for TOEFL</h2>
-                    <p>Preparation for TOEFL should be comprehensive, including practice tests, study guides, and language practice. It's also essential to familiarize yourself with the test format and question types you will encounter on test day.</p>
+                    <p>Preparation for TOEFL should be comprehensive, including practice tests, study guides, and language practice. It is also essential to familiarize yourself with the test format and question types you will encounter on test day.</p>
                     
                     <h2>Conclusion</h2>
                     <p>The TOEFL exam stands as a critical step for students and professionals worldwide to achieve their goals in education and career development. With the right preparation and understanding of its importance, students can leverage

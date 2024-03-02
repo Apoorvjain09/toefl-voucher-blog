@@ -27,13 +27,13 @@ export default function TOEFLFeesBreakdown() {
                     </figure>
                     <p className="lead">Understanding the costs associated with the TOEFL exam is crucial for budgeting and preparation. This breakdown will guide you through the various fees for the TOEFL exam in 2024.</p>
                     <h2>Registration Fees</h2>
-                    <p>The registration fee is the primary cost of the TOEFL exam and varies by country. For example, in the India, the fee for 2024 is INR 16900. It's important to check the official TOEFL website or contact your local test center for the exact fee in your region.</p>
+                    <p>The registration fee is the primary cost of the TOEFL exam and varies by country. For example, in the India, the fee for 2024 is INR 16900. It&apos;s important to check the official TOEFL website or contact your local test center for the exact fee in your region.</p>
                     <h2>Additional Services</h2>
                     <p>Beyond the registration fee, there are costs for additional services such as:</p>
                     <ul>
                         <li><strong>Late Registration:</strong> Registering after the standard deadline incurs a late fee of INR 3,900.</li>
-                        <li><strong>Rescheduling:</strong> If you need to reschedule your test date, there's a fee of INR 5,900</li>
-                        <li><strong>Additional Score Reports:</strong> You'll receive a number of score reports with your registration fee, but if you need more, each additional report costs INR 1,950.</li>                    </ul>
+                        <li><strong>Rescheduling:</strong> If you need to reschedule your test date, there&apos;s a fee of INR 5,900</li>
+                        <li><strong>Additional Score Reports:</strong> You&apos;ll receive a number of score reports with your registration fee, but if you need more, each additional report costs INR 1,950.</li>                    </ul>
 
                     <h2>Preparation Materials</h2>
                     <p>ETS, the organization that administers the TOEFL, offers a variety of official preparation materials. These range from free resources to more comprehensive paid guides and practice tests. Prices for these materials can vary, starting from $25 for quick prep resources to over $250 for extensive preparation kits.</p>
@@ -48,15 +48,15 @@ export default function TOEFLFeesBreakdown() {
                     </ul>
 
                     <h2>Financial Aid and Fee Reductions</h2>
-                    <p>Some test-takers may be eligible for financial aid or fee reductions. ETS provides a fee reduction service for test-takers who can demonstrate financial need. It's advisable to check the official TOEFL website or inquire directly with ETS about the availability of any financial assistance programs that could apply to your situation.</p>
+                    <p>Some test-takers may be eligible for financial aid or fee reductions. ETS provides a fee reduction service for test-takers who can demonstrate financial need. It&apos;s advisable to check the official TOEFL website or inquire directly with ETS about the availability of any financial assistance programs that could apply to your situation.</p>
 
                     <h2>Investing in Your Future</h2>
-                    <p>While the costs associated with the TOEFL exam may seem significant, it's an investment in your academic and professional future. A good TOEFL score can pave the way for studying abroad, obtaining scholarships, and more. Therefore, consider these expenses as stepping stones to achieving your long-term goals.</p>
+                    <p>While the costs associated with the TOEFL exam may seem significant, it&apos;s an investment in your academic and professional future. A good TOEFL score can pave the way for studying abroad, obtaining scholarships, and more. Therefore, consider these expenses as stepping stones to achieving your long-term goals.</p>
 
                     <h2>Conclusion</h2>
-                    <p>Preparing for and taking the TOEFL exam is a comprehensive process that involves understanding the associated costs. By planning ahead and budgeting for these expenses, you can ensure that you're ready to take on the exam with confidence and move one step closer to your educational aspirations.</p>
+                    <p>Preparing for and taking the TOEFL exam is a comprehensive process that involves understanding the associated costs. By planning ahead and budgeting for these expenses, you can ensure that you&apos;re ready to take on the exam with confidence and move one step closer to your educational aspirations.</p>
 
-                    <p>Remember to check for any updates on fees as they can change annually, and consider all the factors that contribute to the total cost of taking the TOEFL exam when you're planning your study journey.</p>
+                    <p>Remember to check for any updates on fees as they can change annually, and consider all the factors that contribute to the total cost of taking the TOEFL exam when you&apos;re planning your study journey.</p>
 
                     <figure className="mt-8">
                         <Image src={feesImage} alt="TOEFL Financial Planning" width={800} height={450} />

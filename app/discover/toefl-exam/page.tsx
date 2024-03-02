@@ -27,13 +27,13 @@ export default function TOEFLPreparation() {
                     </figure>
                     <p className="lead">The TOEFL exam is a widely recognized test that measures your English language proficiency. Whether you are applying to a university, seeking job opportunities, or aiming for a visa in English-speaking countries, a good TOEFL score can open doors for you.</p>
                     <h2>What is the TOEFL Exam?</h2>
-                    <p>The Test of English as a Foreign Language (TOEFL) is designed to assess non-native English speakers' ability to understand and use English in an academic setting. It's accepted by over 10,000 institutions worldwide and is a critical part of your study abroad journey.</p>
+                    <p>The Test of English as a Foreign Language (TOEFL) is designed to assess non-native English speakers ability to understand and use English in an academic setting. Its accepted by over 10,000 institutions worldwide and is a critical part of your study abroad journey.</p>
                     <h2>Understanding the TOEFL Exam Format</h2>
                     <p>The TOEFL exam consists of four sections: Reading, Listening, Speaking, and Writing. Each section tests a specific language skill and contributes to a comprehensive assessment of your English proficiency.</p>
                     <h3>TOEFL Reading Section</h3>
                     <p>This section includes passages with academic content and questions about them. Practice reading extensively and familiarize yourself with quick comprehension strategies.</p>
                     <h3>TOEFL Listening Section</h3>
-                    <p>You'll listen to lectures and conversations, then answer questions on them. Sharpen your note-taking skills and get accustomed to different accents and speeds.</p>
+                    <p>You will listen to lectures and conversations, then answer questions on them. Sharpen your note-taking skills and get accustomed to different accents and speeds.</p>
                     <h3>TOEFL Speaking Section</h3>
                     <p>Speaking tasks simulate academic discussions and require clear, concise responses. Regularly practice speaking on a variety of topics to boost your confidence.</p>
                     <h3>TOEFL Writing Section</h3>
@@ -54,7 +54,7 @@ export default function TOEFLPreparation() {
                     <h2>Final Thoughts</h2>
                     <p>Preparation is key when it comes to the TOEFL exam. By understanding the test format, practicing consistently, and addressing your weaknesses, you can significantly improve your chances of achieving a high score. Remember, the effort you put into preparing for the TOEFL will not only help you with the exam but also in your future academic and professional endeavors where English proficiency is required.</p>
                     
-                    <p>Take advantage of all the resources available to you, including books, online materials, and if possible, instruction from experienced teachers. Lastly, don't forget the importance of rest and a good mindset going into the exam. Good luck!</p>
+                    <p>Take advantage of all the resources available to you, including books, online materials, and if possible, instruction from experienced teachers. Lastly, do not forget the importance of rest and a good mindset going into the exam. Good luck!</p>
                     
                     <figure className="mt-8">
                         <Image src={toeflImage} alt="Focused TOEFL Study" width={800} height={450} />
