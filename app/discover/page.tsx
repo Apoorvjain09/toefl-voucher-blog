@@ -2,7 +2,11 @@ import React from 'react'
 import Image from 'next/image'
 import bonnie from '../../public/assets/bonnie-green.png'
 import jese from '../../public/assets/jese-leos.png'
+import { Metadata } from 'next';
 
+export const metadata: Metadata = {
+    title:"TOEFL-ETS"
+}
 
 export default async function Discover() {
   return (
