@@ -11,9 +11,10 @@ const mainFont = Baloo_Bhai_2({
 });
 
 export const metadata: Metadata = {
-  title: "Selenium Education",
+  title: "Toefl Discount Code",
   description:
-    "the best online learning place in the universe, with cool case studies, great mentors and graduates who are already working in the best companies in the world",
+    "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here
+",
 };
 
 export default async function RootLayout({
