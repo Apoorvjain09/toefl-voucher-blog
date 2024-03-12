@@ -5,7 +5,7 @@ const Video = () => {
         className="border-4 border-prime rounded-xl border-opacity-10 shadow-2xl"
         width="600"
         height="340"
-        src="https://www.youtube.com/embed/TW78bBVBeOk"
+        src="https://www.youtube.com/embed/FUjYPJv2g2E?si=RraUVSSdlaIqdvLB"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
