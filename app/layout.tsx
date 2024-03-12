@@ -10,11 +10,11 @@ const mainFont = Baloo_Bhai_2({
   weight: ["400", "500", "600", "700", "800"],
 });
 
-export const metadata: Metadata = {
-  title: "Toefl Discount Code",
-  description:
-    "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here.",
-};
+// export const metadata: Metadata = {
+//   title: "Toefl Discount Code",
+//   description:
+//     "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here.",
+// };
 
 export default async function RootLayout({
   children,
