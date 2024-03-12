@@ -5,7 +5,7 @@ import jese from '../../public/assets/jese-leos.png'
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title:"TOEFL-ETS"
+    title:"Discover"
 }
 
 export default async function Discover() {
