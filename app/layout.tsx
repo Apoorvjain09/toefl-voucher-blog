@@ -13,8 +13,7 @@ const mainFont = Baloo_Bhai_2({
 export const metadata: Metadata = {
   title: "Toefl Discount Code",
   description:
-    "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here
-",
+    "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here",
 };
 
 export default async function RootLayout({
