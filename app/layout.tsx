@@ -11,10 +11,7 @@ const mainFont = Baloo_Bhai_2({
 });
 
 export const metadata: Metadata = {
-  title: {
-    default: "Toefl Discount Code",
-    template: "%s - Toefl Discount Code",
-  },
+  title: "Toefl Discount Code",
   description:
     "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here.",
 };
