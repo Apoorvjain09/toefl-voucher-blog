@@ -11,7 +11,7 @@ const Action = () => {
   );
   const whatsappLink = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${prefilledMessage}`;
 
-  const youtubeLink = 'https://youtu.be/TW78bBVBeOk?si=Cb3WKiGkgmrFBPwP'
+  const youtubeLink = 'https://www.youtube.com/watch?v=FUjYPJv2g2E'
   return (
     <div className="flex items-center gap-10 ">
       <Link href={youtubeLink} target="_blank">
