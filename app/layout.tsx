@@ -21,7 +21,6 @@ export default async function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  await new Promise(resolve => setTimeout(resolve,3000))
   return (
     <html lang="en" className={cn(mainFont.className)}>
       <body>
