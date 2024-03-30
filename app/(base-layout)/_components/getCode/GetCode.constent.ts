@@ -9,7 +9,7 @@ export const infos = [
     text: "During payment, enjoy a discount of Rs 2000/-",
   },
   {
-    text: "Share the ETS confirmation with us to avail FREE:",
+    text: "Share the ETS confirmation with us at toeflcode@gmail.com to avail FREE:",
     subList: [
       "TOEFL Prep Material",
       "TOEFL classes",
