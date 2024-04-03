@@ -3,10 +3,6 @@ import Image from 'next/image';
 import toeflOverview from "../../../public/assets/toefl-ets-overview.webp"; // An image representing TOEFL, e.g., someone studying or the TOEFL logo
 import RecentBlogsSidebar from '../RecentBlogSidebar';
 
-import { Metadata } from 'next';
-export const metadata: Metadata = {
-    title: "TOEFL-ETS"
-}
 export default function TOEFLPage() {
     return (
         <main className="flex-grow">
