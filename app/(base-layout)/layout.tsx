@@ -13,7 +13,7 @@ const layout = ({ children }: { children: ReactNode }) => {
     <div className="">
       {/* <NavBar /> */}
       <main className="">{children}</main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
