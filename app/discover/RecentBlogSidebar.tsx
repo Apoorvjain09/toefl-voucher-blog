@@ -7,7 +7,7 @@ import Link from "next/link";
 function RecentBlogsSidebar() {
     return (
         <aside className="z-10 w-full p-6 dark:bg-gray-50 dark:text-gray-800" style={{position:"absolute"}}>
-            <nav className="space-y-8 text-sm fixed">
+            <nav className="space-y-4 text-sm fixed">
                 <div className="space-y-2" style={{padding:10}}>
                     <h2 className="text-sm font-semibold tracking-widest uppercase dark:text-gray-600">GETTING STARTED</h2>
                     <div className="flex flex-col space-y-2" style={{paddingBottom:"1px"}}>
