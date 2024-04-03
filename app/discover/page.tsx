@@ -15,7 +15,7 @@ export default async function Discover() {
       <section className="bg-white dark:bg-gray-900 my-5">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
           <div className="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
-            <h2 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Blog</h2>
+            <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Blog</h1>
             <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">We use an agile approach to test assumptions and connect with the needs of your audience early and often.</p>
           </div>
           <div className="grid gap-8 lg:grid-cols-2">
@@ -28,7 +28,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-guide">TOEFL Guide: Unlocking the Key Details for Test Takers</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-guide">TOEFL Guide: Unlocking the Key Details for Test Takers</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Dive into the specifics of the TOEFL exam with our comprehensive guide. From registration to preparation, get all the insights you need to ace the test.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -52,9 +52,9 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">Just now</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <Link href="/discover/toefl-exam">Preparing for the TOEFL Exam: Essential Insights and Preparation Tips</Link>
-              </h2>
+              </h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">
                 Discover essential strategies and tips to prepare for the TOEFL exam. Learn how to study effectively, manage your time, and improve your score.
               </p>
@@ -80,7 +80,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-full-form">Explaining TOEFL: The Full Form and Its Importance for Students</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-full-form">Explaining TOEFL: The Full Form and Its Importance for Students</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">TOEFL, an essential assessment for non-native English speakers, plays a pivotal role in unlocking opportunities in education and beyond. Discover its significance for global learners.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -104,7 +104,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-exam-fee">TOEFL Exam Fees: A Detailed Breakdown of Costs for 2024</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-exam-fee">TOEFL Exam Fees: A Detailed Breakdown of Costs for 2024</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Navigating the expenses of TOEFL can be daunting. This guide offers a comprehensive breakdown of the fees for 2024, helping students prepare financially for their journey.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -130,7 +130,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-login">Easy TOEFL Login Steps: Accessing Your Test Information Quickly</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-login">Easy TOEFL Login Steps: Accessing Your Test Information Quickly</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Streamline your TOEFL prep with our easy login guide. Discover how to quickly access your test information, scores, and more, ensuring a smooth testing experience.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -154,7 +154,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-ets">Navigating the TOEFL ETS Portal: A Comprehensive User&apos;s Overview</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-ets">Navigating the TOEFL ETS Portal: A Comprehensive User&apos;s Overview</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Embark on your TOEFL journey with confidence. This comprehensive overview of the TOEFL ETS Portal guides you through every step, from registration to accessing your test results.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -180,7 +180,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-exam-pattren">TOEFL Exam Pattern: Understanding the Structure for 2024</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-exam-pattren">TOEFL Exam Pattern: Understanding the Structure for 2024</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Get ahead with your TOEFL preparation by understanding the exam pattern for 2024. This article provides insights into the structure, helping you strategize your study plan effectively.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -204,7 +204,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-login">TOEFL ETS Login: Step-by-Step Access to Your Testing Profile</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-login">TOEFL ETS Login: Step-by-Step Access to Your Testing Profile</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Master the TOEFL ETS login process with our step-by-step guide. Access your testing profile effortlessly and manage your exam preparation seamlessly.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -230,7 +230,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-ibt">TOEFL iBT: Comprehensive Guide to Internet-Based Test Format and Tips</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-ibt">TOEFL iBT: Comprehensive Guide to Internet-Based Test Format and Tips</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Dive into the details of the TOEFL iBT with our comprehensive guide. Learn about the internet-based test format and discover essential tips to enhance your performance.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -254,7 +254,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-vs-ielts">TOEFL vs IELTS: A Detailed Comparison for Aspiring International Students</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-vs-ielts">TOEFL vs IELTS: A Detailed Comparison for Aspiring International Students</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Choosing between TOEFL and IELTS? Our detailed comparison provides aspiring international students with the insights needed to make an informed decision based on their academic and immigration goals.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -280,7 +280,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-practiceTests">Effective TOEFL Practice Tests: How to Use Them for a Top Score</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-practiceTests">Effective TOEFL Practice Tests: How to Use Them for a Top Score</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Maximize your TOEFL preparation with effective practice tests. Learn the strategies on how to use these tests to pinpoint your strengths and weaknesses, leading to a top score.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
@@ -304,7 +304,7 @@ export default async function Discover() {
                 </span>
                 <span className="text-sm">14 days ago</span>
               </div>
-              <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-vs-ielts">TOEFL and IELTS: Analyzing Both Tests for Academic and Immigration Purposes</Link></h2>
+              <h1 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><Link href="/discover/toefl-vs-ielts">TOEFL and IELTS: Analyzing Both Tests for Academic and Immigration Purposes</Link></h1>
               <p className="mb-5 font-light text-gray-500 dark:text-gray-400">Understand the key differences and similarities between TOEFL and IELTS. This analysis helps you decide which test aligns best with your academic and immigration objectives.</p>
               <div className="flex justify-between items-center">
                 <div className="flex items-center space-x-4">
