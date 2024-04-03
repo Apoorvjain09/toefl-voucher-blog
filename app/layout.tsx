@@ -4,6 +4,8 @@ import "./globals.css";
 
 import { cn } from "@/lib/utils";
 import NavBar from "./(base-layout)/_components/shared/navBar/NavBar";
+import Footer from "./(base-layout)/_components/shared/footer/Footer";
+
 
 const mainFont = Baloo_Bhai_2({
   subsets: ["latin"],
@@ -24,7 +26,10 @@ export default async function RootLayout({
   return (
     <html lang="en" className={cn(mainFont.className)}>
       <body>
-        <NavBar/> {children}</body>
+        <NavBar/> 
+        {children}
+        <Footer/>
+      </body>
     </html>
   );
 }
