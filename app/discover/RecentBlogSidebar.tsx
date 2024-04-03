@@ -4,7 +4,7 @@ import pic from "../../public/assets/toefl-ets.webp"
 // components/TableComponent.js
 function RecentBlogsSidebar() {
     return (
-        <aside className="z-10 w-full p-6 dark:bg-gray-50 dark:text-gray-800" style={{marginTop:100, position:"absolute"}}>
+        <aside className="z-10 w-full p-6 dark:bg-gray-50 dark:text-gray-800" style={{position:"absolute"}}>
             <nav className="space-y-8 text-sm fixed">
                 <div className="space-y-2">
                     <h2 className="text-sm font-semibold tracking-widest uppercase dark:text-gray-600">Getting Started</h2>
