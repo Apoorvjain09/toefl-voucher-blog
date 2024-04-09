@@ -8,7 +8,7 @@ export const menuLinks = [
     tag: "Discover",
   },
   {
-    to: "/#get-code",
+    to: "/toefl-score-reporting-voucher-code",
     tag: "Spacial Deals",
   },
 ];
