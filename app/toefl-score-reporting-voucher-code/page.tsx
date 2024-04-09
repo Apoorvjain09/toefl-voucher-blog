@@ -11,7 +11,7 @@ const dataQA = [
         answer: "Simply join our WhatsApp group! We offer free, step-by-step assistance to help you with your application process."
     },
     {
-        question: "Can I still get codes if I've already completed my application?",
+        question: "Can I still get codes if I have already completed my application?",
         answer: "Absolutely! Even if your application is already done, joining our group gives you access to TOEFL voucher codes and a supportive community."
     },
     {
