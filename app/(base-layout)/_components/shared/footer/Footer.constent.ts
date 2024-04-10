@@ -4,11 +4,11 @@ export const infos = [
     links: [
       {
         tag: "About",
-        link: "#",
+        link: "/discover",
       },
       {
-        tag: "Career",
-        link: "#",
+        tag: "Vouchers",
+        link: "/toefl-score-reporting-voucher-code",
       },
       {
         tag: "Partners",
@@ -21,7 +21,7 @@ export const infos = [
     links: [
       {
         tag: "Courses",
-        link: "#",
+        link: "/discover",
       },
       {
         tag: "Bootcamp",
