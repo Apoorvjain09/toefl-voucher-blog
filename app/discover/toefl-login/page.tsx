@@ -6,6 +6,7 @@ import Head from 'next/head'
 
 export default function TOEFLLoginGuide() {
     return (
+        <>
         <Head>
             <title>Our Blog - TOEFL Login ETS</title>
             <meta name="description" content="Explore how to create a ets login ID. Get insights on preparation, patterns, fees, and more to ace your test." />
@@ -48,5 +49,6 @@ export default function TOEFLLoginGuide() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
