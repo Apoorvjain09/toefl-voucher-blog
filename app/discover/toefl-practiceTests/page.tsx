@@ -5,6 +5,11 @@ import practiceTestImage from "../../../public/assets/toefl-fees.webp"; // Ensur
 
 export default function EffectiveTOEFLPracticeTests() {
     return (
+        <Head>
+            <title>Our Blog - Toefl Practice Tests</title>
+            <meta name="description" content="Explore comprehensive Practice Tests for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
+            <meta name="keywords" content="TOEFL, TOEFL Exam, TOEFL Tips, TOEFL Preparation, TOEFL Guide" />
+        </Head>
         <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
                 <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
