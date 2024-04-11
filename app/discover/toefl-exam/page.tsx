@@ -6,6 +6,7 @@ import RecentBlogsSidebar from '../RecentBlogSidebar';
 
 export default function TOEFLPreparation() {
     return (
+        <>
         <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
             <RecentBlogsSidebar />
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
@@ -65,6 +66,7 @@ export default function TOEFLPreparation() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
 
