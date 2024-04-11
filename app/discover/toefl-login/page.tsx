@@ -2,9 +2,15 @@ import React from 'react';
 import Image from 'next/image';
 import profile from "../../../public/assets/profile-picture-2.jpg"; // Assume this is the author's or an educator's image
 import hero from "../../../public/assets/toefl-guide.webp"; // This could be an image related to TOEFL or studying
+import Head from 'next/head'
 
 export default function TOEFLLoginGuide() {
     return (
+        <Head>
+            <title>Our Blog - TOEFL Login ETS</title>
+            <meta name="description" content="Explore how to create a ets login ID. Get insights on preparation, patterns, fees, and more to ace your test." />
+            <meta name="keywords" content="TOEFL, TOEFL login, TOEFL Tips, TOEFL Preparation, TOEFL Guide ETS" />
+        </Head>
         <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
                 <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
