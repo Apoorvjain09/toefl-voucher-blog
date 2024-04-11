@@ -2,9 +2,15 @@ import React from 'react';
 import Image from 'next/image';
 import profilePic from "../../../public/assets/profile-picture-2.jpg"; // Adjust based on actual profile picture location
 import toeflIbtImage from "../../../public/assets/toefl-ets.webp"; // Adjust based on actual TOEFL iBT image location
+import Head from 'next/head'
 
 export default function TOEFLiBTGuide() {
     return (
+        <Head>
+            <title>Our Blog - Discover TOEFL IbT</title>
+            <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
+            <meta name="keywords" content="TOEFL, TOEFL ETS , TOEFL IbT, TOEFL Preparation, TOEFL Guide" />
+        </Head>
         <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
                 <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
