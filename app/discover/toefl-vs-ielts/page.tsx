@@ -6,6 +6,7 @@ import Head from 'next/head'
 
 export default function TOEFLvsIELTS() {
     return (
+        <>
         <Head>
             <title>TOEFL Vs IELTS Idp</title>
             <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
@@ -63,5 +64,6 @@ export default function TOEFLvsIELTS() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
