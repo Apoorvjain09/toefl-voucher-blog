@@ -2,6 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import profilePic from "../../../public/assets/profile-picture-2.jpg"; // Adjust based on actual profile picture location
 import practiceTestImage from "../../../public/assets/toefl-fees.webp"; // Ensure this image is related to TOEFL practice tests
+import Head from 'next/head'
 
 export default function EffectiveTOEFLPracticeTests() {
     return (
