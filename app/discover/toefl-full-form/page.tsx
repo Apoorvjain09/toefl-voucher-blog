@@ -8,6 +8,7 @@ import Head from 'next/head'
 
 export default function TOEFLExplanation() {
     return (
+        <>
         <Head>
             <title>Our Blog - Full Form</title>
             <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
@@ -67,5 +68,6 @@ export default function TOEFLExplanation() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
