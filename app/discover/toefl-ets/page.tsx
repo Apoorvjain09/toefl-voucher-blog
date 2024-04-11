@@ -2,9 +2,16 @@ import React from 'react';
 import Image from 'next/image';
 import toeflOverview from "../../../public/assets/toefl-ets-overview.webp"; // An image representing TOEFL, e.g., someone studying or the TOEFL logo
 import RecentBlogsSidebar from '../RecentBlogSidebar';
+import Head from 'next/head'
 
 export default function TOEFLPage() {
     return (
+        <>
+        <Head>
+            <title>Our Blog - TOEFL ETS</title>
+            <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
+            <meta name="keywords" content="TOEFL, TOEFL Exam, TOEFL Tips, TOEFL Preparation, TOEFL Guide" />
+        </Head>
         <main className="flex-grow">
             <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
                 <RecentBlogsSidebar />
@@ -40,5 +47,6 @@ export default function TOEFLPage() {
                 </div>
             </main>
         </main>
+        </>
     )
 };
