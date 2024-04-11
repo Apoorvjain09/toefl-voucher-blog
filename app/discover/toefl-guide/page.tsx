@@ -7,6 +7,7 @@ import Head from 'next/head'
 
 export default function TOEFLGuide() {
     return (
+        <>
         <Head>
             <title>Our Blog - Discover TOEFL Guides</title>
             <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
@@ -70,6 +71,7 @@ export default function TOEFLGuide() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
 
