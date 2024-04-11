@@ -6,6 +6,7 @@ import Head from 'next/head'
 
 export default function EffectiveTOEFLPracticeTests() {
     return (
+        <>
         <Head>
             <title>Our Blog - Toefl Practice Tests</title>
             <meta name="description" content="Explore comprehensive Practice Tests for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
@@ -72,5 +73,6 @@ export default function EffectiveTOEFLPracticeTests() {
                 </article>
             </div>
         </main>
+        </>
     );
 }
