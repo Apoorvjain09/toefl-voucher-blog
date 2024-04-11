@@ -9,7 +9,7 @@ export default function TOEFLExamPattern() {
     return (
         <>
         <Head>
-            <title>Our Blog - Discover TOEFL Guides and Tips</title>
+            <title>Our Blog - TOEFL exam pattren</title>
             <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
             <meta name="keywords" content="TOEFL, TOEFL Exam, TOEFL Tips, TOEFL Preparation, TOEFL Guide" />
         </Head>
