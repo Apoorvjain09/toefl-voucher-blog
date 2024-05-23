@@ -4,16 +4,10 @@ import bonnie from '../../public/assets/bonnie-green.png'
 import jese from '../../public/assets/jese-leos.png'
 import Link from 'next/link'
 import { Metadata } from 'next';
-import Head from 'next/head';
 
 export default async function Discover() {
   return (
     <>
-      <Head>
-        <title>Our Blog - Discover TOEFL Guides and Tips</title>
-        <meta name="description" content="Explore comprehensive guides and tips for the TOEFL exam. Get insights on preparation, patterns, fees, and more to ace your test." />
-        <meta name="keywords" content="TOEFL, TOEFL Exam, TOEFL Tips, TOEFL Preparation, TOEFL Guide" />
-      </Head>
       <section className="bg-white dark:bg-gray-900 my-5">
         <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
           <div className="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">

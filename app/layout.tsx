@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { Baloo_Bhai_2 } from "next/font/google";
 import "./globals.css";
-
+import { ClerkProvider } from '@clerk/nextjs'
 import { cn } from "@/lib/utils";
-import NavBar from "./(base-layout)/_components/shared/navBar/NavBar";
-import Footer from "./(base-layout)/_components/shared/footer/Footer";
+
 
 
 const mainFont = Baloo_Bhai_2({
@@ -12,24 +11,18 @@ const mainFont = Baloo_Bhai_2({
   weight: ["400", "500", "600", "700", "800"],
 });
 
-// export const metadata: Metadata = {
-//   title: "Toefl Discount Code",
-//   description:
-//     "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here.",
-// };
-
 export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={cn(mainFont.className)}>
-      <body>
-        <NavBar/> 
-        {children}
-        <Footer/>
-      </body>
-    </html>
+    <ClerkProvider>
+      <html lang="en" className={cn(mainFont.className)}>
+        <body>
+          {children}
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }

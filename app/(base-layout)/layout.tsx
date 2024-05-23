@@ -12,9 +12,9 @@ export const metadata: Metadata = {
 const layout = ({ children }: { children: ReactNode }) => {
   return (
     <div className="">
-      {/* <NavBar /> */}
+      <NavBar />
       <main className="">{children}</main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };

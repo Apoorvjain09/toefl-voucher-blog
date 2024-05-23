@@ -2,13 +2,6 @@ import React from 'react';
 import Image from 'next/image';
 import toeflOverview from "../../../public/assets/toefl-ets-overview.webp"; // An image representing TOEFL, e.g., someone studying or the TOEFL logo
 import RecentBlogsSidebar from '../RecentBlogSidebar';
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: "Toefl ETS Guide",
-  description:
-    "Get FREE Toefl discount codes for 2024 on your TOEFL Registration. Avail a INR 2000 Discount on the TOEFL iBT fees. Check Code Here.",
-};
 
 export default function TOEFLPage() {
     return (

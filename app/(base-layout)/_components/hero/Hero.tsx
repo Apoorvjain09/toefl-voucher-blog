@@ -52,7 +52,7 @@ const Hero = () => {
             <Image
               src={heroImage}
               alt=""
-              className="md:w-96 md:h-96 lg:w-[440px] lg:h-[440px] xl:w-[500px] xl:h-[500px]  2xl:w-[unset] 2xl:h-[unset] z-[90]"
+              className="md:w-96 md:h-96 lg:w-[440px] lg:h-[440px] xl:w-[500px] xl:h-[500px]  2xl:w-[unset] 2xl:h-[unset] z-[0]"
             ></Image>
           </div>
         </div>
