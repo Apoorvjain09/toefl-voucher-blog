@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm install --legacy-peer-deps && next build",
     "start": "next start",
     "lint": "next lint"
   },
@@ -39,7 +39,6 @@
     "react-dom": "^18",
     "react-hook-form": "^7.51.4",
     "react-media-recorder": "^1.6.6",
-    "react-mic": "^12.4.6",
     "react-pro-sidebar": "^1.1.0",
     "react-speech-recognition": "^3.10.0",
     "regenerator-runtime": "^0.14.1",
