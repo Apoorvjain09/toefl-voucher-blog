@@ -1,7 +1,5 @@
 import { Metadata } from "next";
 import { ReactNode } from "react";
-import NavBar from "../(base-layout)/_components/shared/navBar/NavBar";
-import Footer from "../(base-layout)/_components/shared/footer/Footer";
 
 
 export const metadata: Metadata = {
@@ -14,9 +12,9 @@ const layout = ({ children }: { children: ReactNode }) => {
   return (
     <div className="">
       <main className="">
-        <NavBar/> 
+        {/* <NavBar/>  */}
         {children}
-        <Footer/>
+        {/* <Footer/> */}
       </main>
     </div>
   );

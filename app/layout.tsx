@@ -3,6 +3,8 @@ import { Baloo_Bhai_2 } from "next/font/google";
 import "./globals.css";
 import { ClerkProvider } from '@clerk/nextjs'
 import { cn } from "@/lib/utils";
+import Sidebar from "@/components/sidebar/sidebar";
+import 'regenerator-runtime/runtime';
 
 
 
@@ -20,7 +22,14 @@ export default async function RootLayout({
     <ClerkProvider>
       <html lang="en" className={cn(mainFont.className)}>
         <body>
-          {children}
+          <main className="">
+            <div className="p-4 sm:ml-64">
+              <div className="border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700">
+                <Sidebar/>
+                {children}
+              </div>
+            </div>
+          </main>
         </body>
       </html>
     </ClerkProvider>

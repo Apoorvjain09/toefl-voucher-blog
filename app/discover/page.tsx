@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
-import bonnie from '../../public/assets/bonnie-green.png'
-import jese from '../../public/assets/jese-leos.png'
+import bonnie from '@/public/assets/bonnie-green.png'
+import jese from '@/public/assets/jese-leos.png'
 import Link from 'next/link'
 import { Metadata } from 'next';
 

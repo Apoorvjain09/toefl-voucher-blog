@@ -1,3 +1,23 @@
+const defaultTheme = require("tailwindcss/defaultTheme");
+const colors = require("tailwindcss/colors");
+const { default: flattenColorPalette } = require("tailwindcss/lib/util/flattenColorPalette");
+import { PluginAPI } from 'tailwindcss/types/config';
+
+/**
+ * Function to add CSS variables for colors
+ * @param {object} param0 - Tailwind CSS plugin parameter
+ */
+function addVariablesForColors({ addBase, theme }: PluginAPI) {
+  let allColors = flattenColorPalette(theme("colors"));
+  let newVars = Object.fromEntries(
+    Object.entries(allColors).map(([key, val]) => [`--${key}`, val as string])
+  );
+
+  addBase({
+    ":root": newVars,
+  });
+}
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
@@ -22,7 +42,6 @@ module.exports = {
         ellipse1: "url('/assets/ellipse 1.svg')",
         ellipse2: "url('/assets/ellipse 2.svg')",
       },
-
       colors: {
         second: "#00A3CB",
         prime: "#1700FF",
@@ -30,7 +49,6 @@ module.exports = {
         discount: "#00FF47",
         clock: "#FF0069",
         course: "#FFA800",
-
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
@@ -86,5 +104,10 @@ module.exports = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate"),require('flowbite-typography'),require("flowbite/plugin")],
+  plugins: [
+    require("tailwindcss-animate"),
+    require('flowbite-typography'),
+    require("flowbite/plugin"),
+    addVariablesForColors,
+  ],
 };

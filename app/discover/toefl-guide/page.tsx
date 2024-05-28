@@ -1,14 +1,12 @@
 import React from 'react';
 import Image from 'next/image';
-import profile from '../../../public/assets/profile-picture-2.jpg';
-import hero from '../../../public/assets/toefl-guide.webp';
-import RecentBlogsSidebar from '../RecentBlogSidebar';
+import profile from '@/public/assets/profile-picture-2.jpg';
+import hero from '@/public/assets/toefl-guide.webp';
 
 export default function TOEFLGuide() {
     return (
         <>
         <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
-            <RecentBlogsSidebar />
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">
                 <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
                     <header className="mb-4 lg:mb-6 not-format">
