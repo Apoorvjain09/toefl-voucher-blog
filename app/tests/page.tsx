@@ -3,7 +3,6 @@ import { useState } from "react";
 import TestCard from "@/components/ui/TestCard";
 import { Boxes } from "@/components/ui/backgroundBoxes";
 import { cn } from "@/lib/utils";
-// import React from "react";
 
 export default function Page() {
     const [showTests, setShowTests] = useState(false);
